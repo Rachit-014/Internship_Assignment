@@ -5,14 +5,14 @@ Page 1
 753 BC, you (Romulus) and your brother Remus decided to find a new city. However, both of you could not decide on the location so you decided to let the Gods decide, and you consulted augury.
 The augury has fixed to interpret the flight of birds to determine whether the place is auspicious to build a city or not.
 Remus decided to place himself on the Aventine Hill.
-You choose to…
+You choose toâ€¦
 Choice: Place yourself on the Caelian Hill. (Turn to page 2)
 Or: Place yourself on the Palatine Hill. (Go to page 3)
 
 Page 2
 
 You began to study the birds in the sky from the Caelian Hill and noticed none of them. 
-Remus reported that he witnessed six birds and since you encountered zero ended up losing to him.
+Remus reported that he witnessed six birds and since you encountered zero, ended up losing to him.
 THE END.
 
 Page 3
@@ -24,14 +24,14 @@ After arguing for a while, you decided to settle the matter through a standoff a
 Page 4
 
 The standoff begins, Remus quickly charged towards you with his spear!
-You choose to…
+You choose toâ€¦
 Choice: Attack! (Turn to page 5)
 Or: Defend! (Go to page 8)
 
 Page 5
 
-You responded with an attack, but Remus’s momentum helped him to land a blow first, dealing a heavy blow, breaking your stance but leaving him open.
-In that instant you choose to…
+You responded with an attack, but Remusâ€™s momentum helped him to land a blow first, dealing a heavy blow, breaking your stance but leaving him open.
+In that instant you choose toâ€¦
 Choice: Recover your stance. (Turn to page 6)
 Or: Attack him. (Go to page 7)
 
